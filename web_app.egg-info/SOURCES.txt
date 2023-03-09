@@ -1,0 +1,16 @@
+MANIFEST.in
+pyproject.toml
+tests/test_auth.py
+tests/test_blog.py
+tests/test_db.py
+tests/test_factory.py
+web_app/__init__.py
+web_app/auth.py
+web_app/blog.py
+web_app/db.py
+web_app/swagger.py
+web_app.egg-info/PKG-INFO
+web_app.egg-info/SOURCES.txt
+web_app.egg-info/dependency_links.txt
+web_app.egg-info/requires.txt
+web_app.egg-info/top_level.txt
